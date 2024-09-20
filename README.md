@@ -8,10 +8,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a student at the Software Engineering Department at the Faculty of Engineering.
-- 🌱 I’m currently studying `Web dev.` 
-- 📫 How to reach me **dirar.ahmed.sy@gmail.com**
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
+- 👨‍💻 I’m currently studying `Web dev.` 
+- ✉ How to reach me **dirar.ahmed.sy@gmail.com**
+- 🏃‍♂Always `learning new things`
+- ⚡ Doing my best 
 
 <br>
 
