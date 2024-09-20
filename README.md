@@ -19,7 +19,7 @@
 <p align="center">
     <a href="mailto:dirar.ahmed.sy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100010847193095&mibextid=LQQJ4d" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100010847193095&mibextid=LQQJ4d" title="Instagram"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
+	<a href="https://www.instagram.com/dirar.ahmed.f?igsh=YXR6ZDk0enprbnl5&utm_source=qr " title="Instagram"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
 "/></a>
     <a href="https://www.linkedin.com/in/dirar-ahmed-9b96352b7/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
