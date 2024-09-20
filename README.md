@@ -19,7 +19,8 @@
 <p align="center">
     <a href="mailto:dirar.ahmed.sy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100010847193095&mibextid=LQQJ4d" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100010847193095&mibextid=LQQJ4d" title="Facebook"><img src=https://www.google.com/imgres?q=instagram%20svg&imgurl=https%3A%2F%2Fimages.template.net%2F76791%2FFree-Instagram-Logo-Vector-1.jpg&imgrefurl=https%3A%2F%2Fwww.template.net%2Feditable%2F76791%2Finstagram-logo-vector&docid=ZTdG8renqm0_DM&tbnid=xWYTLp6d3g6X2M&vet=12ahUKEwiBvJHC2tKIAxXYZ_EDHTB2LXAQM3oECFoQAA..i&w=880&h=880&hcb=2&ved=2ahUKEwiBvJHC2tKIAxXYZ_EDHTB2LXAQM3oECFoQAA"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100010847193095&mibextid=LQQJ4d" title="Instagram"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
+"/></a>
     <a href="https://www.linkedin.com/in/dirar-ahmed-9b96352b7/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
