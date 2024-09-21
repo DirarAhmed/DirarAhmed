@@ -48,6 +48,18 @@
 <a href="https://www.cprogramming.com/" title="C">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
+<a href="https://www.w3schools.com/css/" title="CSS">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</a>
+<a href="https://getbootstrap.com/" title="Bootstrap">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</a>
+<a href="https://reactjs.org/" title="React">
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</a>
 
 </p>
 
