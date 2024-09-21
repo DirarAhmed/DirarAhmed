@@ -66,14 +66,15 @@
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DirarAhmed&theme=tokyonight_duo" alt="DirarAhmed" /></p>
   <br/>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="DirarAhmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=DirarAhmed&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DirarAhmed&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="DirarAhmed" height="230px"/>
-<br/>
+        <img alt="DirarAhmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=DirarAhmed&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DirarAhmed&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="DirarAhmed" height="230px"/>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 
