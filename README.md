@@ -70,8 +70,8 @@
 <br/>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DirarAhmed&langs_count=10&show_icons=true&locale=en&theme=dark" alt="DirarAhmed" height="230px"/>
+        <img alt="DirarAhmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=DirarAhmed&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+    </a>
 <br/>
 
 <b style="color:#ff6347;">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
